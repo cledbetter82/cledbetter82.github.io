@@ -87,10 +87,34 @@
     // Silkscreen T4 On Duex 5
     {"key":"T4", "value":"PF7"},
     
+    // pwm/servos 
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen Pwm_1 On Duex 5
+    {"key":"PWM_1", "value":"!PC3"},
+    // Silkscreen Pwm_2 On Duex 5
+    {"key":"PWM_2", "value":"!PC5"},
+    // Silkscreen Pwm_3 On Duex 5
+    {"key":"PWM_3", "value":"!PC8"},
+    // Silkscreen Pwm_4 On Duex 5
+    {"key":"PWM_4", "value":"!PC11"},
+    // Silkscreen Pwm_5 On Duex 5
+    {"key":"PWM_5", "value":"!PA15"},
+
     // Z PROBE
     //------------------------------------------------------------------------------------------------------------------------
     {"key":"Z_PROBE_IN", "value":"PC1"}, {"key":"Z_PROBE_MOD", "value":"PC2"},
     
+    // daughterboards
+    //------------------------------------------------------------------------------------------------------------------------
+    // first board on duet Silkscreen RTD1, RTD2 
+    {"key":"DAUGHTER_0", "value":"PB2"}, {"key":"DAUGHTER_1", "value":"PC18"},
+    // second board on duet Silkscreen RTD1, RTD2 
+    {"key":"DAUGHTER_2", "value":"PC19"}, {"key":"DAUGHTER_3", "value":"PC20"},
+    // first board on duex Silkscreen RTD1, RTD2
+    {"key":"DAUGHTER_4", "value":"PA24"}, {"key":"DAUGHTER_5", "value":"PE1"},
+    // second board on duex Silkscreen RTD1, RTD2
+    {"key":"DAUGHTER_6", "value":"PE2"}, {"key":"DAUGHTER_7", "value":"PE3"},
+
     // BLTouch
     //------------------------------------------------------------------------------------------------------------------------
     {"key":"BLT_SENSOR", "value":"^PB7"}, {"key":"BLT_CONTROL", "value":"PB6"}

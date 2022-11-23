@@ -158,7 +158,7 @@
 	},
 	{
 		"name":"Hotends", 
-		"description":"Hotends known to work well, pick 0ne.",
+		"description":"Hotends known to work well, pick One.",
 		"components":[
 			{
 				"required": true,
