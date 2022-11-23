@@ -122,9 +122,9 @@
 			{
 				"required": false,
 				"template": true,
-				"path":"extruder/ldo_orbiter_15.cfg", 
-				"name":"Orbiter 1.5", 
-				"description":"LDO Orbiter V1.5 with 1004 Motor"
+				"path":"extruder/ldo_orbiter.cfg", 
+				"name":"Orbiter 1.5/2.0", 
+				"description":"LDO Orbiter V1.5/2.0 with 1004 Motor"
 			}
 		]
 	},
