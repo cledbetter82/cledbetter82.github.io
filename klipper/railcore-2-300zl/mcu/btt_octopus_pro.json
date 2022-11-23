@@ -1,0 +1,92 @@
+[
+    // Stepper Drivers
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen MOTOR0 Octopus Pro
+    {"key":"E0_STEP", "value":"PF13"}, {"key":"E0_DIR", "value":"PF12"}, {"key":"E0_EN", "value":"!PF14"}, {"key":"E0_CS", "value":"PC4"},
+    // Silkscreen MOTOR1 On Octopus Pro
+    {"key":"X_STEP", "value":"PG0"}, {"key":"X_DIR", "value":"PG1"}, {"key":"X_EN", "value":"!PF15"}, {"key":"X_CS", "value":"PD11"},
+    // Silkscreen MOTOR2 On Octopus Pro
+    {"key":"Y_STEP", "value":"PF11"}, {"key":"Y_DIR", "value":"!PG3"}, {"key":"Y_EN", "value":"!PG5"}, {"key":"Y_CS", "value":"PC6"},
+    
+    // Silkscreen MOTOR3 On Octopus Pro
+    {"key":"AUX0_STEP", "value":"PG4"}, {"key":"AUX0_DIR", "value":"PC1"}, {"key":"AUX0_EN", "value":"!PA0"}, {"key":"AUX0_CS", "value":"PC7"},
+    // Silkscreen MOTOR4 On Octopus Pro
+    {"key":"AUX1_STEP", "value":"PF9"}, {"key":"AUX1_DIR", "value":"PF10"}, {"key":"AUX1_EN", "value":"!PG2"}, {"key":"AUX1_CS", "value":"PF2"},
+    
+    // Silkscreen MOTOR5 on Octopus Pro
+    {"key":"Z0_STEP", "value":"PC13"}, {"key":"Z0_DIR", "value":"PF0"}, {"key":"Z0_EN", "value":"!PF1"}, {"key":"Z0_CS", "value":"PE4"},
+    // Silkscreen MOTOR6 on Octopus Pro
+    {"key":"Z1_STEP", "value":"PE2"}, {"key":"Z1_DIR", "value":"PE3"}, {"key":"Z1_EN", "value":"!PD4"}, {"key":"Z1_CS", "value":"PE1"},
+    // Silkscreen MOTOR7 on Octopus Pro
+    {"key":"Z2_STEP", "value":"PE6"}, {"key":"Z2_DIR", "value":"PA14"}, {"key":"Z2_EN", "value":"!PE0"}, {"key":"Z2_CS", "value":"PD3"},
+    
+    // Fans
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen PWM fans 0 On Octopus Pro
+    {"key":"PART_FAN", "value":"PA8"},
+    // Silkscreen PWM fans 1 On Octopus Pro
+    {"key":"HOTEND_FAN", "value":"PE5"},
+    // Silkscreen PWM fans 2 On Octopus Pro
+    {"key":"FAN_2", "value":"PD12"},
+    // Silkscreen PWM fans 3 On Octopus Pro
+    {"key":"FAN_3", "value":"PD13"},
+    // Silkscreen PWM fans 4 On Octopus Pro
+    {"key":"FAN_4", "value":"PD14"},
+    // Silkscreen PWM fans 5 On Octopus Pro
+    {"key":"FAN_5", "value":"PD13"},
+        
+    // Endstops
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen STOP0 On Octopus Pro
+    {"key":"X_STOP", "value":"PG6"},
+    // Silkscreen STOP1 On Octopus Pro
+    {"key":"Y_STOP", "value":"PG9"},
+    // Silkscreen STOP2 On Octopus Pro
+    {"key":"Z_STOP", "value":"PG10"},
+    // Silkscreen STOP3 On Octopus Pro
+    {"key":"STOP3", "value":"PG11"},
+    // Silkscreen STOP4 On Octopus Pro
+    {"key":"STOP4", "value":"PG12"},
+    // Silkscreen STOP5 On Octopus Pro
+    {"key":"STOP5", "value":"PG13"},
+    // Silkscreen STOP4 On Octopus Pro
+    {"key":"STOP6", "value":"PG14"},
+    // Silkscreen STOP7 On Octopus Pro
+    {"key":"STOP7", "value":"PG15"},
+    
+    
+    // Heaters
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen BED OUT On Octopus Pro
+    {"key":"HEATER_BED", "value":"PA1"},
+    // Silkscreen HE0 On Octopus Pro
+    {"key":"E0_HEAT", "value":"PA2"},
+    // Silkscreen HE1 On Octopus Pro
+    {"key":"HE1", "value":"PA3"},
+    // Silkscreen HE2 On Octopus Pro
+    {"key":"HE2", "value":"PB10"},
+    // Silkscreen HE3 On Octopus Pro
+    {"key":"HE3", "value":"PB11"},
+    
+    // Temperature Sensors 
+    //------------------------------------------------------------------------------------------------------------------------
+    // Silkscreen TB On Octopus Pro
+    {"key":"BED_TEMP", "value":"PF3"},
+    // Silkscreen T1 On Octopus Pro
+    {"key":"E0_THERMISTOR", "value":"PF4"},
+    // Silkscreen T2 On Octopus Pro
+    {"key":"BED_AUX_TEMP", "value":"PF5"},
+    // Silkscreen T3 On Duex 5
+    {"key":"T3", "value":"PF6"},
+    // Silkscreen T4 On Duex 5
+    {"key":"T4", "value":"PF7"},
+    
+    // Z PROBE
+    //------------------------------------------------------------------------------------------------------------------------
+    {"key":"Z_PROBE_IN", "value":"PC1"}, {"key":"Z_PROBE_MOD", "value":"PC2"},
+    
+    // BLTouch
+    //------------------------------------------------------------------------------------------------------------------------
+    {"key":"BLT_SENSOR", "value":"^PB7"}, {"key":"BLT_CONTROL", "value":"PB6"}
+    
+    ]
