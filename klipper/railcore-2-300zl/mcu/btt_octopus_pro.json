@@ -20,6 +20,13 @@
     // Silkscreen MOTOR7 on Octopus Pro
     {"key":"Z2_STEP", "value":"PE6"}, {"key":"Z2_DIR", "value":"PA14"}, {"key":"Z2_EN", "value":"!PE0"}, {"key":"Z2_CS", "value":"PD3"},
     
+    // SPI pins for the Drivers
+    {"key":"S_MISO", "value":"PA6"},
+    {"key":"S_MOSI", "value":"PA7"},
+    {"key":"S_SCK", "value":"PA5"},
+
+    {"key":"MAX31865_CS", "value":"PF8"},
+
     // Fans
     //------------------------------------------------------------------------------------------------------------------------
     // Silkscreen PWM fans 0 On Octopus Pro
@@ -54,7 +61,6 @@
     // Silkscreen STOP7 On Octopus Pro
     {"key":"STOP7", "value":"PG15"},
     
-    
     // Heaters
     //------------------------------------------------------------------------------------------------------------------------
     // Silkscreen BED OUT On Octopus Pro
@@ -68,7 +74,7 @@
     // Silkscreen HE3 On Octopus Pro
     {"key":"HE3", "value":"PB11"},
     
-    // Temperature Sensors 
+    // Temperature Sensors
     //------------------------------------------------------------------------------------------------------------------------
     // Silkscreen TB On Octopus Pro
     {"key":"BED_TEMP", "value":"PF3"},

@@ -78,28 +78,28 @@
 				"path":"stepper/2660_E.cfg", 
 				"name":"2660 E", 
 				"description":"Trinamic TMC2660s for the extruder"
-			}
+			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_XY.cfg", 
 				"name":"2209 XY", 
 				"description":"Trinamic TMC2209s for the X & Y axis"
-			}
+			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_Z.cfg", 
 				"name":"2209 Z", 
 				"description":"Trinamic TMC2209s for the Z axis"
-			}
+			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_E.cfg", 
 				"name":"2209 E", 
 				"description":"Trinamic TMC2209s for the extruder"
-			}
+			},
 			{
 				"required": false,
 				"template": true,
