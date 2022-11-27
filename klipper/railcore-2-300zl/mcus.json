@@ -1,5 +1,5 @@
 [
 	{"name":"Duet 2 & Duex 5", "path":"mcu/duet2-duex5.cfg", "replacementsPath":"mcu/duet2-duex5.json", "template":true},
-	{"name":"Octopus Pro 1.0", "path":"mcu/btt_octopus_pro.cfg", "replacementsPath":"mcu/btt_octopus_pro.json", "template":true}
+	{"name":"Octopus Pro 1.0", "path":"mcu/btt_octopus_pro.cfg", "replacementsPath":"mcu/btt_octopus_pro.json", "template":true},
 	{"name":"Octopus Pro Test", "path":"mcu/btt_octopus_pro.cfg", "replacementsPath":"mcu/btt_test.json", "template":true}
 ]
