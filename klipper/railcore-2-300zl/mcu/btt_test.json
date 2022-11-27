@@ -1,0 +1,242 @@
+[
+
+	{
+		"key": "E0_STEP",
+		"value": "PF13"
+	}, {
+		"key": "E0_DIR",
+		"value": "PF12"
+	}, {
+		"key": "E0_EN",
+		"value": "!PF14"
+	}, {
+		"key": "E0_CS",
+		"value": "PC4"
+	},
+	{
+		"key": "X_STEP",
+		"value": "PG0"
+	}, {
+		"key": "X_DIR",
+		"value": "PG1"
+	}, {
+		"key": "X_EN",
+		"value": "!PF15"
+	}, {
+		"key": "X_CS",
+		"value": "PD11"
+	},
+	{
+		"key": "Y_STEP",
+		"value": "PF11"
+	}, {
+		"key": "Y_DIR",
+		"value": "!PG3"
+	}, {
+		"key": "Y_EN",
+		"value": "!PG5"
+	}, {
+		"key": "Y_CS",
+		"value": "PC6"
+	},
+
+	{
+		"key": "AUX0_STEP",
+		"value": "PG4"
+	}, {
+		"key": "AUX0_DIR",
+		"value": "PC1"
+	}, {
+		"key": "AUX0_EN",
+		"value": "!PA0"
+	}, {
+		"key": "AUX0_CS",
+		"value": "PC7"
+	},
+	{
+		"key": "AUX1_STEP",
+		"value": "PF9"
+	}, {
+		"key": "AUX1_DIR",
+		"value": "PF10"
+	}, {
+		"key": "AUX1_EN",
+		"value": "!PG2"
+	}, {
+		"key": "AUX1_CS",
+		"value": "PF2"
+	},
+
+	{
+		"key": "Z0_STEP",
+		"value": "PC13"
+	}, {
+		"key": "Z0_DIR",
+		"value": "PF0"
+	}, {
+		"key": "Z0_EN",
+		"value": "!PF1"
+	}, {
+		"key": "Z0_CS",
+		"value": "PE4"
+	},
+	{
+		"key": "Z1_STEP",
+		"value": "PE2"
+	}, {
+		"key": "Z1_DIR",
+		"value": "PE3"
+	}, {
+		"key": "Z1_EN",
+		"value": "!PD4"
+	}, {
+		"key": "Z1_CS",
+		"value": "PE1"
+	},
+	{
+		"key": "Z2_STEP",
+		"value": "PE6"
+	}, {
+		"key": "Z2_DIR",
+		"value": "PA14"
+	}, {
+		"key": "Z2_EN",
+		"value": "!PE0"
+	}, {
+		"key": "Z2_CS",
+		"value": "PD3"
+	},
+
+	{
+		"key": "S_MISO",
+		"value": "PA6"
+	},
+	{
+		"key": "S_MOSI",
+		"value": "PA7"
+	},
+	{
+		"key": "S_SCK",
+		"value": "PA5"
+	},
+
+	{
+		"key": "MAX31865_CS",
+		"value": "PF8"
+	},
+
+	{
+		"key": "PART_FAN",
+		"value": "PA8"
+	},
+	{
+		"key": "HOTEND_FAN",
+		"value": "PE5"
+	},
+	{
+		"key": "FAN_2",
+		"value": "PD12"
+	},
+	{
+		"key": "FAN_3",
+		"value": "PD13"
+	},
+	{
+		"key": "FAN_4",
+		"value": "PD14"
+	},
+	{
+		"key": "FAN_5",
+		"value": "PD13"
+	},
+
+	{
+		"key": "X_STOP",
+		"value": "PG6"
+	},
+	{
+		"key": "Y_STOP",
+		"value": "PG9"
+	},
+	{
+		"key": "Z_STOP",
+		"value": "PG10"
+	},
+	{
+		"key": "STOP3",
+		"value": "PG11"
+	},
+	{
+		"key": "STOP4",
+		"value": "PG12"
+	},
+	{
+		"key": "STOP5",
+		"value": "PG13"
+	},
+	{
+		"key": "STOP6",
+		"value": "PG14"
+	},
+	{
+		"key": "STOP7",
+		"value": "PG15"
+	},
+
+	{
+		"key": "HEATER_BED",
+		"value": "PA1"
+	},
+	{
+		"key": "E0_HEAT",
+		"value": "PA2"
+	},
+	{
+		"key": "HE1",
+		"value": "PA3"
+	},
+	{
+		"key": "HE2",
+		"value": "PB10"
+	},
+	{
+		"key": "HE3",
+		"value": "PB11"
+	},
+
+	{
+		"key": "BED_TEMP",
+		"value": "PF3"
+	},
+	{
+		"key": "E0_THERMISTOR",
+		"value": "PF4"
+	},
+	{
+		"key": "BED_AUX_TEMP",
+		"value": "PF5"
+	},
+	{
+		"key": "T3",
+		"value": "PF6"
+	},
+	{
+		"key": "T4",
+		"value": "PF7"
+	},
+	{
+		"key": "Z_PROBE_IN",
+		"value": "PC1"
+	}, {
+		"key": "Z_PROBE_MOD",
+		"value": "PC2"
+	},
+	{
+		"key": "BLT_SENSOR",
+		"value": "^PB7"
+	}, {
+		"key": "BLT_CONTROL",
+		"value": "PB6"
+	}
+
+]
