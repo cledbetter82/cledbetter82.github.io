@@ -63,49 +63,49 @@
 				"template": true,
 				"path":"stepper/2660_XY.cfg", 
 				"name":"2660 XY", 
-				"description":"Trinamic TMC2660s for the X & Y axis"
+				"description":"Trinamic TMC2660s for the X & Y axis (Duet2)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2660_Z.cfg", 
 				"name":"2660 Z", 
-				"description":"Trinamic TMC2660s for the Z axis"
+				"description":"Trinamic TMC2660s for the Z axis (Duet2)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2660_E.cfg", 
 				"name":"2660 E", 
-				"description":"Trinamic TMC2660s for the extruder"
+				"description":"Trinamic TMC2660s for the extruder (Duet2)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_XY.cfg", 
 				"name":"2209 XY", 
-				"description":"Trinamic TMC2209s for the X & Y axis"
+				"description":"Trinamic TMC2209s for the X & Y axis (Mini5+)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_Z.cfg", 
 				"name":"2209 Z", 
-				"description":"Trinamic TMC2209s for the Z axis"
+				"description":"Trinamic TMC2209s for the Z axis (Mini5+)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/2209_E.cfg", 
 				"name":"2209 E", 
-				"description":"Trinamic TMC2209s for the extruder"
+				"description":"Trinamic TMC2209s for the extruder (Mini5+)"
 			},
 			{
 				"required": false,
 				"template": true,
 				"path":"stepper/5160_XY.cfg", 
 				"name":"5160 XY", 
-				"description":"Trinamic TMC5160s for the X & Y axis"
+				"description":"Trinamic TMC5160s for the X & Y axis (Duet3)"
 			}
 		]
 	},
