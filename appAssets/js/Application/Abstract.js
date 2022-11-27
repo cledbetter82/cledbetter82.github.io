@@ -107,10 +107,10 @@ export default class Abstract{
 
         if(json){
             try{
-                result = result.replace(/^\/\/(.*)$/mg,'');
+                result = result.replace(/^\s*\/\/(.*)$/mg,'');
                 return JSON.parse(result); 
             }catch(e){
-                throw new SyntaxError('Failed to json decode : ' + url + '\n' + e.message);
+                throw new SyntaxError('Failed to json decode : ' + url + ' Error : ' + e.message);
             }
         }else{
             return result;
